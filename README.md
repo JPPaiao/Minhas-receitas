@@ -3,3 +3,4 @@
 
  - Strogonoff de frango
  - Pave
+ - Bolo de Cenoura
